@@ -309,6 +309,11 @@ section .button button:hover {
   color: #fff;
   text-align: justify;
 }
+
+.skills-details bold{
+  font-weight: bold;
+}
+
 .skills .skills-details .experience {
   display: flex;
   align-items: center;
